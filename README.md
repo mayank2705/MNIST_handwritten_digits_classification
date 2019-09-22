@@ -5,3 +5,6 @@ When grouped in plotting then it will be shown a digit.
 # Algorithm
 Used k-Nearest Neighbors classifier for classification of digits.
 The k-nearest neighbors (KNN) algorithm is a simple, easy-to-implement supervised machine learning algorithm that can be used to solve both classification and regression problems.
+
+# MNIST Dataset
+Dataset can be accessed through link http://yann.lecun.com/exdb/mnist/ 
